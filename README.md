@@ -1,4 +1,5 @@
 
+
 # 👩🏻‍💻 cristina abreu
 
 **`Desenvolvedora FullStack`**
@@ -76,5 +77,7 @@ Me chamo Cristina abreu, estou cursando Análise e Desenvolvimento de Sistemas n
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/crisabreusousa/crisabreusousa/output/github-contribution-grid-snake.svg">
 </picture>
   
+
+
 
 
