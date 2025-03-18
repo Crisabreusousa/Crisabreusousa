@@ -4,7 +4,7 @@
 
 <h2>Desenvolvedora FullStack</h2>
 
-<h4>Me chamo Cristina abreu, estou cursando Análise e Desenvolvimento de Sistemas na uniassevel. Sou apaixonada por tecnologia.vou Compartilha meus projetos com Voçês.</h4>
+<h4>Me chamo Cristina abreu, estou cursando Análise e Desenvolvimento de Sistemas na uniasselvi. Sou apaixonada por tecnologia,vou Compartilha meus projetos com Voçês.😘</h4>
 
 
 <img class="gif" src="https://github.com/mari4souza/mari4souza/blob/main/src/study.gif?raw=true" alt="study gif">
