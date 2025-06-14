@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 Cristina abreu  
 
-<h2>Desenvolvedora FullStack</h2>
+<h2>Desenvolvedora front-Eand</h2>
 
 <h4>Me chamo Cristina abreu, estou cursando Análise e Desenvolvimento de Sistemas na uniasselvi. Sou apaixonada por tecnologia,vou Compartilha meus projetos com vocês.😘</h4>
 
